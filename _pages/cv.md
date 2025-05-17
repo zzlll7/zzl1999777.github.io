@@ -12,6 +12,7 @@ redirect_from:
 
 Education
 ======
+* Ph.D student, Astronomy, University of Nevada, Las Vegas, 2024-
 * M.S. Astronomy, Central China Normal University, 2021-2024
 * B.S. Physics,   Central China Normal University, 2017-2021
 
